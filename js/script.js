@@ -29,7 +29,7 @@
 		
 		
 		var ft = new FileTransfer();
-ft.upload(imageData, encodeURI("http://nicolascoletto.com.ar/camarita"), cargaok, cargano, options); 
+ft.upload(imageData, encodeURI("http://nicolascoletto.com/camarita"), cargaok, cargano, options); 
 }
 
     function cargaok(r) {
